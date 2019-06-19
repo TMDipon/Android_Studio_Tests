@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452834744003",
+    "firebase_url": "https://signin-3ba9f.firebaseio.com",
+    "project_id": "signin-3ba9f",
+    "storage_bucket": "signin-3ba9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452834744003:android:4f1a7544deb6b768",
+        "android_client_info": {
+          "package_name": "com.example.dell.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452834744003-dqu3b67pnp8apli9mg4arufnnk9vce3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.googlesignin",
+            "certificate_hash": "7e23d27786a28f55bdf16b7268d200149bc7bc6e"
+          }
+        },
+        {
+          "client_id": "452834744003-cskplkbdaju74p9ge7qtqa4oro5ccedp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzflmZTmotewt2VvOikn8ATEQRW_HOdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452834744003-cskplkbdaju74p9ge7qtqa4oro5ccedp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

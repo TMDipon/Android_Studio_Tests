@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058240631827",
+    "firebase_url": "https://foodiebuddy-977aa.firebaseio.com",
+    "project_id": "foodiebuddy-977aa",
+    "storage_bucket": "foodiebuddy-977aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058240631827:android:f7ea2d2074f0cdfd",
+        "android_client_info": {
+          "package_name": "com.example.dell.foodie_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058240631827-ptg3i92rqkn9218641toeqqf92sc7tcn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.foodie_buddy",
+            "certificate_hash": "7e23d27786a28f55bdf16b7268d200149bc7bc6e"
+          }
+        },
+        {
+          "client_id": "1058240631827-bc8auo3ma74gg5r5064bp2711k2u2anl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJPU_H3ilcrRG2wGvvCp0Kqn377-MO50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058240631827-bc8auo3ma74gg5r5064bp2711k2u2anl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -37,22 +37,22 @@
         android:text="Amount in Pound"
         android:textSize="18sp" />
 
-    <Button
-        android:text="Convert"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/pound"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/button"
-        android:onClick="convert"
-        android:background="@color/colorAccent" />
-
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/cur"
-        android:layout_marginTop="39dp"
         android:id="@+id/imageView"
-        android:layout_below="@+id/button"
+        android:layout_marginBottom="67dp"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="convert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pound"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:id="@+id/button"
+        android:onClick="convert" />
 </RelativeLayout>

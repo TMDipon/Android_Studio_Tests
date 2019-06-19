@@ -15,8 +15,8 @@ public class MainActivity extends AppCompatActivity {
         String t1 = t.getText().toString();
         Double dol = Double.parseDouble(t1);
         Double pound = dol * 0.79;
-        TextView x = (TextView) findViewById(R.id.pound);
-        x.setText("Amount in Pound: "+pound.toString());
+        TextView x = (TextView)findViewById(R.id.pound);
+        x.setText("Amount in Pound: " + pound.toString());
         Toast.makeText(this, "Dollar to Pound converted", Toast.LENGTH_SHORT).show();
     }
 

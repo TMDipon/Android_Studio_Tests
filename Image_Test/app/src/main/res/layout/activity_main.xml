@@ -41,7 +41,7 @@
         android:id="@+id/button"
         android:padding="2dp"
         android:background="@color/colorAccent"
-        android:onClick="show" />
+        android:onClick="show (MainActivity)" />
 
     <ImageView
         android:layout_width="wrap_content"
